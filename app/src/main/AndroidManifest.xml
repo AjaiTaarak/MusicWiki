@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="taarak.greedygames.musicwiki">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppThemedark"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".Artist_main" />
+        <activity android:name=".Album_main" />
+        <activity android:name=".NoInternet"/>
+        <activity
+            android:name=".Genre_main"
+            android:label=""
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
+            android:name=".HomePage"
+            android:label=""
+            android:theme="@style/AppThemedark" />
+        <activity
+            android:name=".OTP_validation"
+            android:theme="@style/AppThemedark" />
+        <activity
+            android:name=".Login"
+            android:theme="@style/AppThemedark" />
+        <activity
+            android:name=".Splash_screen"
+            android:theme="@style/AppThemedark">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

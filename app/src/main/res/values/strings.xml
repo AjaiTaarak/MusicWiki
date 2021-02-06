@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MusicWiki</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="load_more_genres"><u>Load more genres</u></string>
+    <string name="title_activity_genre_main">Genre_main</string>
+    <string name="tab_text_1">Albums</string>
+    <string name="tab_text_2">Artists</string>
+    <string name="tab_text_3">Tracks</string>
+    <string name="top_albums">Top Albums</string>
+    <string name="similar_artists">Similar artists</string>
+    <string name="top_tracks">Top Tracks</string>
+    <string name="artists">Artists</string>
+    <string name="tracks">Tracks</string>
+    <string name="albums">Albums</string>
+    <string name="genres">Genres</string>
+    <string name="what_do_you_like_to_hear">What do you like to hear?</string>
+    <string name="app_name_login">MusicWiki 2021</string>
+    <string name="invalid_credential">Invalid Credential !</string>
+    <string name="login">Login</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="we_have_sent_you_access_code_via_sms_for_mobile_verification">We have sent you access code Via SMS for mobile verification.</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="timer">Timer</string>
+    <string name="verify">Verify</string>
+</resources>

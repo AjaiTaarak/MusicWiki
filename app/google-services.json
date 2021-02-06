@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1056531062574",
+    "project_id": "musicwiki-b4eeb",
+    "storage_bucket": "musicwiki-b4eeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056531062574:android:1d84cfccf51024794b24bf",
+        "android_client_info": {
+          "package_name": "taarak.greedygames.musicwiki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056531062574-5tlcu9c0tpr67c2ce5p9m6lp3sqo9ngq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "taarak.greedygames.musicwiki",
+            "certificate_hash": "d7b0a8f5164cbef94b9e3bfd2f87617a97f6de14"
+          }
+        },
+        {
+          "client_id": "1056531062574-o2amcp84td84lg6nihqfa1stu51tilf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "taarak.greedygames.musicwiki",
+            "certificate_hash": "6b147ef51112fec7e3dfdfef743ebf702bcdf038"
+          }
+        },
+        {
+          "client_id": "1056531062574-inbugd5cqs1g2q2p9755bn6ptkmde988.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvN1Y-IMezLKEADNd3b1Hd6vgWUXEt2ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056531062574-inbugd5cqs1g2q2p9755bn6ptkmde988.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
