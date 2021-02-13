@@ -9,15 +9,3 @@ This android app lets you:
 3.	Clicking on a genre it takes you to a new page where the information about the genre’s top tracks, top albums, top artists are listed.
 4.	Gives detailed information about the song, album and artist
 5.	Requires no permission to use the app.
-Screenshots:
- 
-Decisions:
-1.	The app uses a wrapper class of Last.fm API provided by vpaily. Also the wrapper class did not have all the required methods, so I used AsyncTask to fetch the response(JSON file). 
-2.	The app  has a simple UI and was designed with reference from other popular music apps and few other webpages.
-3.	Due to limited time, I did not add new features and focused on what was asked.
-4.	Few fields were missing from the response, so I used dummy values (Images of artists and genres)
-
-
-Thank you for this oppurtunity @GreedyGames.
-
-
